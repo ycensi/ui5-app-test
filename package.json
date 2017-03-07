@@ -1,0 +1,32 @@
+{
+  "name": "ui5-app-test",
+  "version": "1.0.0",
+  "description": "Projeto de app utilizando a framework javascript OpenUi5.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuricensi/ui5-app-test.git"
+  },
+  "author": "Yuri Robert Censi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuricensi/ui5-app-test/issues"
+  },
+  "homepage": "https://github.com/yuricensi/ui5-app-test#readme",
+  "keywords": [
+    "ui5",
+    "sap",
+    "OpenUi5"
+  ],
+  "dependencies": {
+    "connect": "^3.6.0",
+    "serve-static": "^1.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
