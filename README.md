@@ -1,2 +1,2 @@
 # ui5-app-test
-Projeto de app utilizando a framework javascript OpenUi5.
+Diretorio utilizado para fazer o treinamento de OpenUi5.
